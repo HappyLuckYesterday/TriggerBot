@@ -16,7 +16,7 @@ Then just run one of the following:
 
 
 ##### TriggerBotMarkov.py:
--This version does not store triggers, it stores messages and tries to generate sentences.
+-This version does not store triggers, it stores   messages and tries to generate sentences.
 
 ##### TriggerBotSqlite.py:
 -Same as TriggerBot.py, but uses a sqlite database to store triggers.
